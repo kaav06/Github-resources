@@ -1,1 +1,1 @@
-/First python copde/
+#First python code
